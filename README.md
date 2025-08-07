@@ -65,8 +65,7 @@ These are the main languages I use when scripting tools, building automation, or
 ### 📬 Connect With Me
 
 - GitHub: [github.com/cybr9](https://github.com/cybr9)
-- Telegram: [@yourhandle](https://t.me/yourhandle)
-- Email: `you@example.com` *(optional)*
+- Telegram: [@cybr9](https://t.me/cybr9)
 
 ---
 
