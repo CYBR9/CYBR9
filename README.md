@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://cybr9.com" target="_blank">
+    🌐 cybr9.com
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-Kali-blue?logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=white" />
@@ -17,6 +23,8 @@
 
 I'm **cybr9**, a passionate **Linux user**, **ethical hacker**, and **web developer**.  
 I specialize in **offensive security**, **Bash scripting**, and building **modern, secure web applications** using **HTML, CSS, JavaScript, and Next.js**.
+
+🌐 Personal website: **https://cybr9.com**
 
 I enjoy creating:
 - ⚙️ Automation & CLI tools for Kali Linux  
@@ -76,6 +84,7 @@ I enjoy creating:
 
 ### 📬 Connect With Me
 
+- 🌐 Website: **https://cybr9.com**
 - GitHub: https://github.com/cybr9  
 - Telegram: https://t.me/cybr9  
 
