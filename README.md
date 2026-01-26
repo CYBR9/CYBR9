@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cybr9.com" target="_blank">
+  <a href="https://www.cybr9.com/" target="_blank">
     🌐 cybr9.com
   </a>
 </p>
@@ -84,7 +84,7 @@ I enjoy creating:
 
 ### 📬 Connect With Me
 
-- 🌐 Website: **https://cybr9.com**
+- 🌐 Website: **https://www.cybr9.com/**
 - GitHub: https://github.com/cybr9  
 - Telegram: https://t.me/cybr9  
 
