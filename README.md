@@ -24,7 +24,6 @@
 I'm **cybr9**, a passionate **Linux user**, **ethical hacker**, and **web developer**.  
 I specialize in **offensive security**, **Bash scripting**, and building **modern, secure web applications** using **HTML, CSS, JavaScript, and Next.js**.
 
-🌐 Personal website: **https://cybr9.com**
 
 I enjoy creating:
 - ⚙️ Automation & CLI tools for Kali Linux  
