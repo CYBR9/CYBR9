@@ -11,6 +11,12 @@
 </p>
 
 <p align="center">
+  <a href="https://www.cy9.store/" target="_blank">
+    🌐 cy9.store
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-Kali-blue?logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=white" />
