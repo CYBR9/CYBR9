@@ -91,7 +91,6 @@ I enjoy creating:
 
 - 🌐 Website: **https://www.cybr9.com/**
 - GitHub: https://github.com/cybr9  
-- Telegram: https://t.me/cybr9  
 
 ---
 
