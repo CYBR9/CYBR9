@@ -89,7 +89,7 @@ I enjoy creating:
 
 ### 📬 Connect With Me
 
-- 🌐 Website: **https://www.cybr9.com/**
+- 🌐 Website: **https://cybr9.com/**
 - GitHub: https://github.com/cybr9  
 
 ---
