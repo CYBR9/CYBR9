@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm <strong>cybr9</strong> 👋</h1>
 
 <p align="center">
-  🐧 Linux Enthusiast &nbsp;•&nbsp; 💻 Bash Scripting &nbsp;•&nbsp; 🌐 Full-Stack Web Developer &nbsp;•&nbsp; ⚡ Open Source
+  🐧 Linux Enthusiast &nbsp;•&nbsp; 💻 Bash Scripting &nbsp;•&nbsp; 🌐 Full-Stack Web Developer &nbsp;•&nbsp; 🤖 Discord Bot Dev
 </p>
 
 <p align="center">
   <a href="https://www.cybr9.com/" target="_blank">🌐 cybr9.com</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.cy9.store/" target="_blank">🛒 cy9.store</a>
+  <a href="https://www.cy9.store/" target="_blank">🤖 cy9.store — Discord Bots</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/cybr9" target="_blank">🐙 github.com/cybr9</a>
 </p>
@@ -33,13 +33,17 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/cy9.store-Discord_Bots-5865F2?logo=discord&logoColor=white" />
+</p>
+
 ---
 
 ### 🔍 About Me
 
-I'm **cybr9** — a passionate **Linux enthusiast** and **full-stack web developer**.  
-I specialize in **Bash scripting**, **Linux automation**, and building **modern web applications** using **HTML, CSS, JavaScript, TypeScript, React, and Next.js**.  
-I enjoy the intersection of low-level system tooling and high-quality user interfaces.
+I'm **cybr9** — a passionate **Linux enthusiast**, **full-stack web developer**, and **Discord bot developer**.  
+I specialize in **Bash scripting**, **Linux automation**, building **modern web applications** with React and Next.js, and creating **feature-rich Discord bots** with discord.js — which I sell at **cy9.store**.
 
 I enjoy creating:
 
@@ -47,6 +51,7 @@ I enjoy creating:
 - 🖥️ Bash scripts and shell automation workflows
 - 🌐 Fast, modern full-stack web applications
 - 🎨 Clean UI/UX interfaces using React & Next.js
+- 🤖 Discord bots — moderation, music, economy, utility (sold at cy9.store)
 - 🔌 RESTful APIs and backend systems with Node.js & Express
 - 🗄️ Database design with MongoDB and SQL
 
@@ -57,10 +62,11 @@ I enjoy creating:
 | Category | Tools & Technologies |
 |---|---|
 | **OS** | Kali Linux, Ubuntu Server, Debian |
-| **Scripting** | Bash, Shell, Python, PowerShell |
+| **Scripting** | Bash, Shell, Python |
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+), TypeScript, React 18, Next.js, Tailwind CSS, Vite |
 | **Backend** | Node.js, Express.js, REST APIs, JWT Auth, Passport.js |
-| **Database** | MongoDB (Mongoose), MySQL, Redis |
+| **Discord Bots** | discord.js v14, TypeScript, slash commands, MongoDB, SQLite |
+| **Database** | MongoDB (Mongoose), MySQL, SQLite, Redis |
 | **Payments** | Stripe, PayPal, Saudi Gateway APIs |
 | **Dev Tools** | Neovim, VS Code, Git, Docker, tmux, htop, curl |
 | **Networking** | Netcat, Wireshark, tcpdump, nmap |
@@ -80,6 +86,7 @@ I enjoy creating:
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 ---
@@ -88,11 +95,11 @@ I enjoy creating:
 
 | Project | Description | Stack |
 |---|---|---|
+| 🤖 **cy9.store** | Discord bots marketplace — moderation, music, economy, utility bots built and sold | discord.js, TypeScript, Node.js, MongoDB |
 | ⚙️ **cybr9-cli** | Linux CLI utilities and automation tools | Bash, Shell, Python |
 | 🐧 **Linux Scripts** | Bash scripts for system automation and dev workflows | Bash, Shell |
 | 🌐 **CY9 Dev Platform** | Full-stack solo dev platform — client dashboard, admin portal, payment gateways | Next.js, React, Node.js, MongoDB, Stripe |
 | 🎨 **Web Applications** | Modern responsive websites and dashboards | React, Next.js, Tailwind CSS |
-| 🛒 **cy9.store** | Developer tools and resources store | Next.js, Stripe |
 | 🔐 **Automation Tools** | Security and network automation scripts | Python, Bash |
 
 ---
@@ -125,7 +132,7 @@ I enjoy creating:
     <img src="https://img.shields.io/badge/Website-cybr9.com-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://cy9.store">
-    <img src="https://img.shields.io/badge/Store-cy9.store-fbbf24?style=for-the-badge&logo=shopify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord_Bots-cy9.store-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/cybr9">
     <img src="https://img.shields.io/badge/GitHub-cybr9-181717?style=for-the-badge&logo=github&logoColor=white" />
