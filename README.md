@@ -31,36 +31,34 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-404040?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">🔍 About Me</h3>
+
+<p align="center">
+  I'm <strong>cybr9</strong> — a passionate <strong>Linux enthusiast</strong>, <strong>full-stack web developer</strong>, and <strong>Discord bot developer</strong>.<br/>
+  I specialize in <strong>Bash scripting</strong>, <strong>Linux automation</strong>, building <strong>modern web apps</strong> with React &amp; Next.js,<br/>
+  and creating <strong>feature-rich Discord bots</strong> with discord.js — sold at <strong>cy9.store</strong>.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/cy9.store-Discord_Bots-5865F2?logo=discord&logoColor=white" />
+  ⚙️ Linux automation tools and CLI utilities &nbsp;•&nbsp; 🖥️ Bash scripts and shell workflows<br/>
+  🌐 Fast, modern full-stack web applications &nbsp;•&nbsp; 🎨 Clean UI/UX with React &amp; Next.js<br/>
+  🤖 Discord bots — moderation, music, economy, utility &nbsp;•&nbsp; 🔌 RESTful APIs with Node.js &amp; Express<br/>
+  🗄️ Database design with MongoDB and SQL
 </p>
 
 ---
 
-### 🔍 About Me
+<h3 align="center">🧰 My Stack</h3>
 
-I'm **cybr9** — a passionate **Linux enthusiast**, **full-stack web developer**, and **Discord bot developer**.  
-I specialize in **Bash scripting**, **Linux automation**, building **modern web applications** with React and Next.js, and creating **feature-rich Discord bots** with discord.js — which I sell at **cy9.store**.
-
-I enjoy creating:
-
-- ⚙️ Linux automation tools and CLI utilities
-- 🖥️ Bash scripts and shell automation workflows
-- 🌐 Fast, modern full-stack web applications
-- 🎨 Clean UI/UX interfaces using React & Next.js
-- 🤖 Discord bots — moderation, music, economy, utility (sold at cy9.store)
-- 🔌 RESTful APIs and backend systems with Node.js & Express
-- 🗄️ Database design with MongoDB and SQL
-
----
-
-### 🧰 My Stack
+<div align="center">
 
 | Category | Tools & Technologies |
-|---|---|
+|:---:|:---|
 | **OS** | Kali Linux, Ubuntu Server, Debian |
 | **Scripting** | Bash, Shell, Python |
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+), TypeScript, React 18, Next.js, Tailwind CSS, Vite |
@@ -72,9 +70,11 @@ I enjoy creating:
 | **Networking** | Netcat, Wireshark, tcpdump, nmap |
 | **Cloud / Deploy** | Vercel, Railway, VPS (Ubuntu), Nginx, PM2 |
 
+</div>
+
 ---
 
-### 🔤 Most Used Languages
+<h3 align="center">🔤 Most Used Languages</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -91,33 +91,37 @@ I enjoy creating:
 
 ---
 
-### 🔨 Projects
+<h3 align="center">🔨 Projects</h3>
+
+<div align="center">
 
 | Project | Description | Stack |
-|---|---|---|
-| 🤖 **cy9.store** | Discord bots marketplace — moderation, music, economy, utility bots built and sold | discord.js, TypeScript, Node.js, MongoDB |
+|:---:|:---|:---|
+| 🤖 **cy9.store** | Discord bots marketplace — moderation, music, economy, utility bots | discord.js, TypeScript, Node.js, MongoDB |
 | ⚙️ **cybr9-cli** | Linux CLI utilities and automation tools | Bash, Shell, Python |
 | 🐧 **Linux Scripts** | Bash scripts for system automation and dev workflows | Bash, Shell |
-| 🌐 **CY9 Dev Platform** | Full-stack solo dev platform — client dashboard, admin portal, payment gateways | Next.js, React, Node.js, MongoDB, Stripe |
+| 🌐 **CY9 Dev Platform** | Full-stack solo dev platform — client dashboard, admin portal, payments | Next.js, React, Node.js, MongoDB, Stripe |
 | 🎨 **Web Applications** | Modern responsive websites and dashboards | React, Next.js, Tailwind CSS |
 | 🔐 **Automation Tools** | Security and network automation scripts | Python, Bash |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cybr9&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c4b5fd&icon_color=4ade80" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybr9&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c4b5fd" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cybr9&theme=radical&hide_border=true&background=0d1117&ring=38bdf8&fire=4ade80&currStreakLabel=c4b5fd" height="165">
-</p>
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cybr9&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c4b5fd&icon_color=4ade80" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybr9&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c4b5fd" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cybr9&theme=radical&hide_border=true&background=0d1117&ring=38bdf8&fire=4ade80&currStreakLabel=c4b5fd" height="165" />
+</p>
+
+---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cybr9&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" />
@@ -125,15 +129,17 @@ I enjoy creating:
 
 ---
 
-### 📬 Connect With Me
+<h3 align="center">📬 Connect With Me</h3>
 
 <p align="center">
   <a href="https://cybr9.com">
     <img src="https://img.shields.io/badge/Website-cybr9.com-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://cy9.store">
     <img src="https://img.shields.io/badge/Discord_Bots-cy9.store-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/cybr9">
     <img src="https://img.shields.io/badge/GitHub-cybr9-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -145,4 +151,4 @@ I enjoy creating:
   <img src="https://komarev.com/ghpvc/?username=cybr9&color=38bdf8&style=flat-square&label=Profile+views" />
 </p>
 
-> _"Build fast. Automate everything. Keep it simple."_
+<p align="center"><em>"Build fast. Automate everything. Keep it simple."</em></p>
